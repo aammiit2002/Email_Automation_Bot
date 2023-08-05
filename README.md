@@ -1,3 +1,4 @@
+NOTES
 # Email_Automation_Bot
 
 import smtplib
